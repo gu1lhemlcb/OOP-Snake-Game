@@ -1,0 +1,7 @@
+Create Clock at the bottom of the screen
+Create other walls
+
+Create 2 mods:
+1. No barrier
+2. Touching any walls kils the snake
+(Change color of the snake when lost and set time for winking)
